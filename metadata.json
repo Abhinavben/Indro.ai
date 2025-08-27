@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Prompt",
+  "description": "Prompt Gemini in this simple example",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
